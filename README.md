@@ -6,7 +6,8 @@
 
 I'm told it's called a "formal education"... damn nerds. This profile may not have fancy degrees or GitHub stats, but actual working code does exist: I build user-friendly solutions that actually work. Give me a try!
 
->*"No CS degree. No fancy portfolio. Just pure, unadulterated code that works when it shouldn't."*
+>*"No CS degree. No university. No LeetCode badges. No fancy portfolio.  
+>Just pure, unadulterated code that works when it shouldn't."*
 
 [Take me to your projects anyway!](https://github.com/SultanZain?tab=repositories)
 
