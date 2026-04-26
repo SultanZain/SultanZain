@@ -1,14 +1,17 @@
 <div align="center">
-  
-# This developer doesn't exist
 
-<img src="https://i.imgflip.com/9up4w8.jpg" alt="I'm so sorry, I failed you" width="400"/>
+  <img src="quote.webp" alt="Master`s Quote">
 
-I'm told it's called a "formal education"... damn nerds. This profile may not have fancy degrees or GitHub stats, but actual working code does exist: I build user-friendly solutions that actually work. Give me a try!
+<br>
 
->*"No CS degree. No university. No LeetCode badges. No fancy portfolio.  
->Just pure, unadulterated code that works when it shouldn't."*
+---
 
-[Take me to your projects anyway!](https://github.com/SultanZain?tab=repositories)
+Self-taught by necessity. Efficient by design. No degree, no badges; just code that works with best practices.
+
+---
+
+**[Witness the chaos anyway.](https://sultan.wiki)**
+
+*"Logic stays. Wi-Fi doesn't."*
 
 </div>
